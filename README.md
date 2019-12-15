@@ -1,6 +1,4 @@
-# tugas-2-argame-paramastri
-
-## Tugas 2 RVA - Augmented Reality Game
+# Tugas 2 RVA - Augmented Reality Game
 
 Oleh:
 * Paramastri Ardiningrum
