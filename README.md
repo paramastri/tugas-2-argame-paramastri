@@ -1,4 +1,4 @@
-# Tugas 2 RVA - Augmented Reality Game
+# Tugas 2 RVA - 'gelindingbolAR' Augmented Reality Game
 
 Oleh:
 * Paramastri Ardiningrum
